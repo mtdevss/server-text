@@ -3,6 +3,8 @@ A simple flask service that allows you to run commands on the server/computer ov
 
 **Watch Demo Video [Here](https://vimeo.com/532760635)**
 
+**Please note this is early access version, it is not complete or fully developed. We are also aware of various security issues, which we will address in the future so please use at your own risk!**
+
 ## Installation
 
 You can view installation demo [here](https://asciinema.org/a/404971)
