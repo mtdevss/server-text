@@ -1,9 +1,9 @@
 # Server Text
-A simple flask service that allows you to run commands on the server/computer over sms.
+A simple flask service that allows you to run commands on the server/computer over sms. Think of it as a shell where you run commands over sms
 
 **Watch Demo Video [Here](https://vimeo.com/532760635)**
 
-**Please note this is early access version, it is not complete or fully developed. We are also aware of various security issues, which we will address in the future so please use at your own risk!**
+**Please note this is an early version of the program  We are also aware of various security issues that comes with this program. We would highly recommend not to run this on production servers. You can run this program to experiment locally**
 
 ## Installation
 
